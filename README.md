@@ -37,3 +37,5 @@ There are a few steps here, specific to migrating past exhibitions from the coll
 3. Finally, we hand-copy the contents of `exhibits` from this repository into our `geoservices` server at `var/www/other-properties/legacy-digital-exhibitions`.
 
 *et voila*, it should work now
+
+- Ian & Emily, 10/30/2025
